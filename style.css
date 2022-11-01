@@ -15,7 +15,7 @@ body{
     text-align: center;
     font-size: 47px;
 }
-#tinTex{
+#inTex{
     width: 299px;
     height: 47px;
     border: 1px solid #160f29;
@@ -63,4 +63,14 @@ body{
     color: burlywood;
 
        }
-
+       .paragraph-styling{
+        margin: 0;
+        cursor: pointer;
+        font-size: 37px;
+        color: brown;
+        text-transform: capitalize;
+        border: solid 2px #2e282a;
+       }
+.plj{
+    margin-top: 23px;
+}
